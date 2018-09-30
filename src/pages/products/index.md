@@ -1,14 +1,9 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Let's have coffee
 image: /img/jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: You. Yet Clearer. Stronger. Faster.
+description: We treat strategy like italian espresso. Decaf available.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -40,10 +35,14 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Time to bring your service and product levels to top quality and peak
+    performance. Our approach is clearly based on the best available technology,
+    knowledge and education. Our business partners and clients are required to
+    preform at the highest forms of professionial conduct. Our services have to
+    be like italian espresso. Even before you taste it you become fully aware of
+    the quality of the product and service. Our experts will do their best to
+    bring your content to the highest impact at the shortest time possible, and
+    then accelerate.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -77,25 +76,41 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Perfect for start-ups or traditional companies, starting NGO's.
+        Including social and municipal programs.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - 3 meetings per month
+        - One or two varieties of analytcal reports
+        - SWOT analysis
+        - Personal Quest
+        - Business Canvas
+        - Mind-mapping
+        - Income channel growth
+        - Clear Vision Report (tm)
+      plan: Start-up (retainer)
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: >-
+        Great for acceleration phase: agile development, growth hacking, social
+        media campaigns and bigger crowds
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - 6-8 meetings per month
+        - One or two varieties of analytcal reports
+        - SWOT analysis
+        - Personal Quest
+        - Business Canvas
+        - Mind-mapping
+        - Income channel growth
+        - Clear Vision Report (tm)
+      plan: SME/NGO
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Want to reach even higher? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Whatever you need to grow.
+        - >-
+          From galactic sun empowerment to magnificent stardust of unlimited
+          varieties
+      plan: Custom Development || Monitoring & Evaluation (M&E)
+      price: Request a Quote
 ---
+
