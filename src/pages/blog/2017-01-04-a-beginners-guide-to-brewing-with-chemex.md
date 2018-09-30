@@ -1,8 +1,12 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: A beginners’ guide to Entrepreneurship
+date: 2018-08-30T19:00:00.000Z
+description: >-
+  Start-up your company from scratch probably seems like a complicated,
+  time-consuming ordeal, but once you get used to the process, it becomes an
+  intergalactic freak-show. Once you start sailing with your ideas in the great
+  ocean that's worth the effort every time.
 tags:
   - brewing
   - chemex
